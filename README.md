@@ -41,12 +41,6 @@ Currently focused on **strengthening core programming fundamentals** and **full-
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adii-847&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Adii-847
